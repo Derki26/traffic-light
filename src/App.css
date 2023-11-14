@@ -3,7 +3,7 @@ body{
   width: 100%;
   height: 100vh;
 
-  background-image: url(public/IMG_7539_DC9391A6-1B83-4AFD-9157895D080C4777_dd6f4d9c-b2f9-442a-94c34db286a12ded.jpg);
+  background-image: url(public\IMG_7539_DC9391A6-1B83-4AFD-9157895D080C4777_dd6f4d9c-b2f9-442a-94c34db286a12ded.jpg);
   background-repeat: no-repeat, repeat;
   background-size: cover
 }
